@@ -1,0 +1,34 @@
+@charset "UTF-8";
+*{
+    padding: 0px;
+    margin: 0px;
+}
+        body{
+            background-color: rgb(230, 188, 206);
+            background: url(pexels-trung-nguyen-1767428.jpg);
+            background-size: 100%;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            
+        }
+
+        h1{
+            text-align: center;
+            color: rgba(11, 20, 114, 0.747);
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        h3{
+            text-align: center;
+            color: rgb(11, 1, 20);
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        h2{
+            text-align: center;
+            color: rgb(29, 3, 53);
+            font-family: Arial, Helvetica, sans-serif;
+        }
+       p{
+        text-align: center;
+        color: rgb(29, 3, 53);
+        font-family: Arial, Helvetica, sans-serif;
+       }
+    
